@@ -3,8 +3,8 @@
 *Overpass has been hacked! Can you analyse the attacker's actions and hack back in?*
 
 >
-> Bradley Lubow | rnbochsr, September 2022
-> *My notes and solutions for the TryHackMe.com's Overpass 2 room. *
+> Bradley Lubow | rnbochsr, September 2022 
+> My notes and solutions for the TryHackMe.com's Overpass 2 room. 
 >
 
 ## Task 1 - Forensics - Analyze the PCAP

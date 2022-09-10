@@ -48,7 +48,7 @@ I haven't used Wireshark that much and I really enjoyed the process of following
 `<?php[REDACTED]?>`
 
 *What password did the attacker use to privesc?*
-`whenevernoteartinstant`
+`wh[REDACTED]nt`
 
 *How did the attacker establish persistence?*
 `ht[REDACTED]or`

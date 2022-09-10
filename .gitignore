@@ -1,6 +1,7 @@
 answers.md
 hashcat.output
-hash.txt
+hashes.txt
 target
 creds.txt
-
+etc_shadow
+payload_hex

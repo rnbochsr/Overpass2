@@ -1,6 +1,8 @@
 answers.md
+hash-sol
 hashcat.output
 hashes.txt
+hashcat.potfile
 target
 creds.txt
 etc_shadow
